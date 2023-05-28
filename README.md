@@ -25,7 +25,11 @@ I am a Self learner , I love to learn and know new technologies. Currently I am 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RlM100always)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RlM100always/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RlM100always)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RlM100always)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RlM100always) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RlM100always) 
+
+<a  href="https://www.codechef.com/users/rlm100always"  target="blank"><img  align="center"  src="https://github.com/RlM100always/RlM100always/blob/main/Picture/download.jpeg"  alt="codechef"  height="40"  /></a>
+<a  href="https://leetcode.com/rakib55/"  target="blank"><img  align="center"  src="https://github.com/RlM100always/RlM100always/blob/main/Picture/LeetCode_Sharing.png"  alt="codechef"  height="40"  /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RlM100always)](https://github.com/ryo-ma/github-profile-trophy)
 
