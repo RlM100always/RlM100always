@@ -4,7 +4,7 @@
 
 ### About Me :
 
-I am a Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. Recently I started android development using java and Kotlin language.
+I am a Android Application Developer and Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
 
 
 - 🔭 I’m currently studying on University of Dhaka  
