@@ -7,7 +7,7 @@
 I am a Android Application Developer and Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
 
 
-- 🔭 I’m currently studying on University of Dhaka  
+- 🔭 I’m currently studying at University of Dhaka  
 - 🌱 I’m currently learning Android Developing 
 
 ### Skills :   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
