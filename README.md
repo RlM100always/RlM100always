@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Rakib Hossain
-### I am a Android Developer,Problem Solver,Tech enthusiast Person
+### I am a Problem Solver,Android Developer,Tech enthusiast Person
 ![I am a Problem Solver ](https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png)
 
 ### About Me :
