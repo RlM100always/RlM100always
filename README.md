@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Rakib Hossain
-### I am a Problem Solver,Android Developer,Tech enthusiast Person
-![I am a Problem Solver ](https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png)
+### I am a Problem Solver,Junior Android Developer,Tech enthusiast Person .
+
+<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png' weight="950" height="400" />
 
 ### About Me :
 
-I am a Android Application Developer and Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
+I am a Junior Android Application Developer and Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
 
 
 - 🔭 I’m currently studying at University of Dhaka  
