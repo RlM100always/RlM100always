@@ -31,9 +31,8 @@ I am a Junior Android Application Developer and Self learner , I love to learn a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RlM100always)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RlM100always&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RlM100always)  
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RlM100always)  
 
-![Profile views](https://gpvc.arturio.dev/RlM100always)  
+
