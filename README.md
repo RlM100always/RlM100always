@@ -1,15 +1,12 @@
 ### Hi there 👋, I am Rakib Hossain
 ### I am a Problem Solver,Junior Android Developer,Tech enthusiast Person .
 
-<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png' weight="1550" height="400" />
+<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png' weight="2000" height="450"  />
 
 ### About Me :
 
 I am a Junior Android Application Developer and Self learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
 
-
-- 🔭 I’m currently studying at University of Dhaka  
-- 🌱 I’m currently learning Android Developing 
 
 ### Skills :   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
@@ -27,6 +24,7 @@ I am a Junior Android Application Developer and Self learner , I love to learn a
 ### Connect With Me :
 
  [<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/GitHub-logo.png' weight="50" height='50'>](https://github.com/RlM100always)  [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/linkedin-logo.png' weight="45" height='50'>](https://www.linkedin.com/in/RlM100always) [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/Facebook-logo.png' weight="50"  height='50'>](https://www.facebook.com/RlM100always)<a  href="https://leetcode.com/rakib55/"  ><img    src="https://github.com/RlM100always/RlM100always/blob/main/logo/leetcode.png"   weight="40" height="50"  /></a><a   href="https://www.codechef.com/users/rlm100always"  ><img src="https://github.com/RlM100always/RlM100always/blob/main/Picture/codechef%20(1).png"  weight="45" height="50"  /></a>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RlM100always)](https://github.com/ryo-ma/github-profile-trophy)
 
