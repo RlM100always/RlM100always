@@ -1,11 +1,29 @@
 ### Hi there 👋, I am Rakib Hossain
-### I am a Problem Solver,Android Developer(Java),Tech enthusiast Person .Currently I am Learning Flutter Framework.
 
-<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/github-photo.png' weight="2000" height="450"  />
+**1. Problem Solver**
+
+
+
+__2. Android Developer(Java)__
+
+ 
+ <b><i>Tools I use : </i></b>
+   
+ <b><i>->    Java As Language</i></b>
+
+ <b><i>-> For UI XML Desiging</i></b>
+
+ <b><i>-> Database : MySQL,SQLite,Firebase</i></b>
+ 
+ 
+
+**3. Tech enthusiast Person**
+
+<img src='https://github.com/RlM100always/RlM100always/blob/main/Picture/github.png' weight="2000" height="450"  />
 
 ### About Me :
 
-Android Application Developer and Self Motivated learner , I love to learn and know new technologies. Currently I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
+Android Application Developer and Self Motivated learner , I love to learn and know new technologies.Currently I am Learning Flutter Framework. I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming. 
 
 
 ### Skills :   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
