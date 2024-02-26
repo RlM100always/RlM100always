@@ -3,23 +3,25 @@
 
 ### Hi there 👋, I am Rakib Hossain
 
-I am an Android Application Developer,Problem Solver and Self Motivated learner , I love to learn and know new technologies.Currently I am Learning Flutter Framework. I am studying at University of Dhaka. I know C,C++,Java language, I have a clear concept of Object Oriented Programming 
+I am an Android Application Developer,Problem Solver and Self Motivated learner , I love to learn and know new technologies.Currently I am Learning Flutter Framework. I am also studying at University of Dhaka , Department of Computer Science And Engineering . 
 
 ### Tools And Technology I use for Android Development : 
  * Language : JAVA
+ * Others Language I lnow : C,C++
  * Design : XML
+ * Tools : Gradle
  * DataBase : Firebase Realtime and FireStore,SQLITE,MySQL
  * Storage : Firebase Storage
  * Network : Retrofit
  * Online Image Handeling : Picasso,Glide
    
 
-### My Project : 
+### My Project List: 
  #### Earn Taka
 * Application Link : https://www.amazon.com/gp/product/B0CVDWRPNV
 * Github Project Link : https://github.com/RlM100always/Earn-Taka-Description
  #### University Guide  
- * Application Link :
+ * Application Link : https://www.amazon.com/gp/product/B0CW18Z8CP
  * GitHub Project Link : https://github.com/RlM100always/University-Guide-Description
 #### District Service 
 * GitHub Project Link : https://github.com/RlM100always/District-Service-App
