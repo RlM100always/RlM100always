@@ -6,8 +6,8 @@
 I am an Android Application Developer,Problem Solver and Self Motivated learner , I love to learn and know new technologies.Currently I am Learning Flutter Framework. I am also studying at University of Dhaka , Department of Computer Science And Engineering . 
 
 ### Tools And Technology I use for Android Development : 
- * Language : JAVA
- * Others Language I lnow : C,C++
+ * Language : JAVA(Main)
+ * Others Language I know : C,C++
  * Design : XML
  * Tools : Gradle
  * DataBase : Firebase Realtime and FireStore,SQLITE,MySQL
