@@ -29,7 +29,7 @@ I am an Android Application Developer,Problem Solver and Self Motivated learner 
 * GitHub Project Link : ttps://github.com/RlM100always/District-Service-App
 
 #### Hackathon 
-* Download App : <a href="https://drive.google.com/file/d/1lPLrZ0z0jPTjW_foVIshM-_itchQXtxuE/view?usp=sharing" class="button" target="_blank">Download App</a>
+* Download App : <a href="https://drive.google.com/file/d/1lPLrZ0z0jPTjW_foVIshM-_itcQXtxuE/view?usp=drive_link" class="button" target="_blank">Download App</a>
 * GitHub Project Link :  <a href="https://github.com/RlM100always/Zero_Xp_LU_Hackathon" class="button" target="_blank">GitHub Project Link</a>
 
 
