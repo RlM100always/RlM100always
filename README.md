@@ -19,14 +19,16 @@ I am an Android Application Developer,Problem Solver and Self Motivated learner 
 
 ### My Project List: 
  #### Earn Taka
-* Application Link : https://www.amazon.com/gp/product/B0CVDWRPNV
-* Github Project Link : https://github.com/RlM100always/Earn-Taka-Description
+* Amazon Application Link : <a href ="https://www.amazon.com/gp/product/B0CVDWRPNV">Amazon App Link</a>
+* Github Description Link : <a href="https://github.com/RlM100always/Earn-Taka-Description">Github Description Link</a>
+* NOTE : Github Code is Private
  #### University Guide  && GlobUniGuide
- * Amazon App Link : https://www.amazon.com/gp/product/B0CW18Z8CP
- * Play Store App Link : https://play.google.com/store/apps/details?id=com.techtravelcoder.alluniversityinformation
- * GitHub Project Link : https://github.com/RlM100always/University-Guide-Description
+ * Amazon App Link : <a href = "https://www.amazon.com/gp/product/B0CW18Z8CP">Amazon App Link</a>
+ * Play Store App Link : <a href="https://play.google.com/store/apps/details?id=com.techtravelcoder.alluniversityinformation"> PlayStore App Link </a>
+ * GitHub Description Link : <a href = "https://github.com/RlM100always/University-Guide-Description" >GitHub Description Link</a>
+ * NOTE : Github Code is Private
 #### District Service 
-* GitHub Project Link : ttps://github.com/RlM100always/District-Service-App
+* GitHub Project Link : <a href="https://github.com/RlM100always/District-Service-App">Github Project Link</a>
 
 #### Hackathon 
 * Download App : <a href="https://drive.google.com/file/d/1lPLrZ0z0jPTjW_foVIshM-_itcQXtxuE/view?usp=drive_link" class="button" target="_blank">Download App</a>
@@ -34,7 +36,8 @@ I am an Android Application Developer,Problem Solver and Self Motivated learner 
 
 
 #### UPBH : Unlimited Pdf Book House
-* Play Store App Link : https://play.google.com/store/apps/details?id=com.techtravelcoder.educationalbooks&pcampaignid=web_share
+* Play Store App Link : <a href="https://play.google.com/store/apps/details?id=com.techtravelcoder.educationalbooks&pcampaignid=web_share">Play Store App Link</a>
+* NOTE : Github Code is Private
 
 
 
