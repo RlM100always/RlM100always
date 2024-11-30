@@ -32,6 +32,8 @@ I am an Android Application Developer,Problem Solver and Self Motivated learner 
  #### Earn Taka
 * Amazon Application Link : <a href ="https://www.amazon.com/gp/product/B0CVDWRPNV">Amazon App Link</a>
 * Github Description Link : <a href="https://github.com/RlM100always/Earn-Taka-Description">Github Description Link</a>
+* Download Admin App : <a href="https://drive.google.com/file/d/1hTaovIlHdBjrEuEvi7XFcbnw7dGQCiiB/view?usp=sharing">Download Admin App</a>
+* Download User app : <a href="https://drive.google.com/file/d/11i9Szi7nFldGmGH41JOUs-Lbe3T43PD2/view?usp=sharing">Download User app</a>
 * NOTE : Github Code is Private
 
 #### District Service 
