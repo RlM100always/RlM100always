@@ -6,7 +6,7 @@
 I am an Android Application Developer(Kotlin && Java),Problem Solver and Self Motivated learner , I love to learn and know new technologies. I am also studying at University of Dhaka , Department of Computer Science And Engineering . 
 
 ### Tools And Technology I use for Android Development : 
- * Language : For Android->(Java,Kotlin),PHP
+ * Language : For Android->(Java,Kotlin),Python 
  * Problem Solving : C,C++
  * Design : XML,HTML,CSS
  * Tools : Gradle
