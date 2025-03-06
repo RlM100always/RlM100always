@@ -1,20 +1,17 @@
 
-<img src='https://github.com/RlM100always/RlM100always/blob/main/Picture/github.png' weight="2000" height="450"  />
+<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/Copy%20of%20Android%20Fiveer%20Gig.png' weight="2000" height="450"  />
 
 ### Hi there 👋, I am Rakib Hossain
 
-I am an Android Application Developer(Kotlin && Java),Problem Solver and Self Motivated learner , I love to learn and know new technologies. I am also studying at University of Dhaka , Department of Computer Science And Engineering . 
+I'm an Android Application Developer with 3 years of experience in building high-quality, performance-driven mobile applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
 
-### Tools And Technology I use for Android Development : 
- * Language : For Android->(Java,Kotlin),Python 
- * Problem Solving : C,C++
- * Design : XML,HTML,CSS
- * Tools : Gradle
- * DataBase : Firebase Realtime and FireStore,SQLITE,MySQL
- * Storage : Firebase Storage
- * Network : Retrofit,Volley
- * Online Image Handeling : Picasso,Glide
- * Lottie Animation
+* Tech Stack:
+* ✔ Development: Java, Kotlin, Jetpack Compose, XML
+* ✔ Backend & Database : Sqlite,mysql,Postgresql, Python, FastApi
+* ✔ API & Networking: Retrofit, Volley
+* ✔ Storage & Media
+* ✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS)
+* ✔ Architecture: MVVM for clean, maintainable code
    
 
 ### My Project List: 
