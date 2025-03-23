@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am Rakib Hossain
 
-I'm an Android Application Developer with 3 years of experience in building high-quality, performance-driven mobile applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
+I'm an Android Application Developer with 3 years of(self) experience in building high-quality, performance-driven mobile applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
 
 * Tech Stack:
 * ✔ Development: Java, Kotlin, Jetpack Compose, XML
@@ -81,11 +81,11 @@ I'm an Android Application Developer with 3 years of experience in building high
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Connect With Me :
-
+### Connect With Me 
+<a   href="https://www.codechef.com/users/rakib55"  ><img src="https://github.com/RlM100always/RlM100always/blob/main/Picture/codechef%20(1).png"  weight="45" height="50"  /></a>
  [<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/GitHub-logo.png' weight="50" height='50'>](https://github.com/RlM100always)  [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/linkedin-logo.png' weight="45" height='50'>](https://www.linkedin.com/in/RlM100always) [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/Facebook-logo.png' weight="50"  height='50'>](https://www.facebook.com/RlM100always)<a  href="https://leetcode.com/RlM100always/"  ><img    src="https://github.com/RlM100always/RlM100always/blob/main/logo/leetcode.png"   weight="40" height="50"  /></a><a   href="https://www.codechef.com/users/rlm100always"  ><img src="https://github.com/RlM100always/RlM100always/blob/main/Picture/codechef%20(1).png"  weight="45" height="50"  /></a>
 
-
+### GitHub Contribution
 [![trophy](https://github-profile-trophy.vercel.app/?username=RlM100always)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RlM100always)](https://github.com/anuraghazra/github-readme-stats)
