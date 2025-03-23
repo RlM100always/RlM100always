@@ -14,38 +14,57 @@ I'm an Android Application Developer with 3 years of experience in building high
 * ✔ Architecture: MVVM for clean, maintainable code
    
 
-### My Project List: 
-#### UPBH : Unlimited Pdf Book House
-* Play Store App Link : <a href="https://play.google.com/store/apps/details?id=com.techtravelcoder.educationalbooks&pcampaignid=web_share">Play Store App Link</a>
-* NOTE : Github Code is Private
+# 🚀 My Project List : 
 
- #### University Guide  && GlobUniGuide
- * Amazon App Link : <a href = "https://www.amazon.com/gp/product/B0CW18Z8CP">Amazon App Link</a>
- * Play Store App Link : <a href="https://play.google.com/store/apps/details?id=com.techtravelcoder.alluniversityinformation"> PlayStore App Link </a>
- * GitHub Description Link : <a href = "https://github.com/RlM100always/University-Guide-Description" >GitHub Description Link</a>
- * NOTE : Github Code is Private
-#### SelfMe 
-* Download User App : <a href="https://drive.google.com/file/d/1l129EV-qURme2lS3GFmh675KM0KxHlaa/view?usp=sharing" class="button" target="_blank">Download User App</a>
-* Download Admin App : <a href="https://drive.google.com/file/d/18THkrZzSHdEPL7jlcPuepYV2tthnh8gH/view?usp=sharing" class="button" target="_blank">Download Admin App</a>
-* GitHub Project Link :  <a href="https://github.com/RlM100always/EarningApp" class="button" target="_blank">GitHub Project Link</a>
-   
- #### Earn Taka
-* Amazon Application Link : <a href ="https://www.amazon.com/gp/product/B0CVDWRPNV">Amazon App Link</a>
-* Github Description Link : <a href="https://github.com/RlM100always/Earn-Taka-Description">Github Description Link</a>
-* Download Admin App : <a href="https://drive.google.com/file/d/1hTaovIlHdBjrEuEvi7XFcbnw7dGQCiiB/view?usp=sharing">Download Admin App</a>
-* Download User app : <a href="https://drive.google.com/file/d/11i9Szi7nFldGmGH41JOUs-Lbe3T43PD2/view?usp=sharing">Download User app</a>
-* NOTE : Github Code is Private
+## 📚 UPBH: Unlimited PDF Book House
+[![Google Play](https://img.shields.io/badge/Download-Google%20Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.techtravelcoder.educationalbooks)
 
-#### District Service 
-* GitHub Project Link : <a href="https://github.com/RlM100always/District-Service-App">Github Project Link</a>
-* Download App : <a href = "https://drive.google.com/file/d/1NAriwHltHMHJMClYvG1YEWbPcM0ua0SV/view?usp=sharing">Download App</a>
+### 🔑 Key Highlights
+- 📖 Unlimited Educational PDF Access
+- 🌐 Comprehensive Book Library
 
-#### Hackathon 
-* Download App : <a href="https://drive.google.com/file/d/1lPLrZ0z0jPTjW_foVIshM-_itcQXtxuE/view?usp=drive_link" class="button" target="_blank">Download App</a>
-* GitHub Project Link :  <a href="https://github.com/RlM100always/Zero_Xp_LU_Hackathon" class="button" target="_blank">GitHub Project Link</a>
+## 🎓 University Guide & GlobUniGuide
+[![Amazon App](https://img.shields.io/badge/Amazon-Download-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/gp/product/B0CW18Z8CP)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.techtravelcoder.alluniversityinformation)
 
+### 🌟 Project Insights
+- 🌍 More than 1000+ University Information And Dictionary
+- 🔍 Learning Materials and Course
+- 💡 Exam System
 
+## 💰 SelfMe: Personal Earning Ecosystem
+[![User App](https://img.shields.io/badge/User%20App-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1l129EV-qURme2lS3GFmh675KM0KxHlaa/view?usp=sharing)
+[![Admin App](https://img.shields.io/badge/Admin%20App-Download-red?style=for-the-badge)](https://drive.google.com/file/d/18THkrZzSHdEPL7jlcPuepYV2tthnh8gH/view?usp=sharing)
 
+### 💸 Earning Management Features
+- 💳 Earn Points using money and promote your website
+- 📊 Comprehensive Admin Dashboard
+- 🔐 Secure Transaction Management
+
+## 💲 Earn Taka: Monetization Platform
+[![Amazon App](https://img.shields.io/badge/Amazon-Download-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/gp/product/B0CVDWRPNV)
+[![User App](https://img.shields.io/badge/User%20App-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/11i9Szi7nFldGmGH41JOUs-Lbe3T43PD2/view?usp=sharing)
+[![Admin App](https://img.shields.io/badge/Admin%20App-Download-red?style=for-the-badge)](https://drive.google.com/file/d/1hTaovIlHdBjrEuEvi7XFcbnw7dGQCiiB/view?usp=sharing)
+
+### 🚀 Monetization Capabilities
+- 💡 Play Game , Ads System 
+- 🔍 Transparent Transaction Tracking
+- 💹 Multiple Earning Channels
+
+## 🏘️ District Service App
+[![Download](https://img.shields.io/badge/Download-App-blue?style=for-the-badge)](https://drive.google.com/file/d/1NAriwHltHMHJMClYvG1YEWbPcM0ua0SV/view?usp=sharing)
+
+### 🌐 Local Service Excellence
+- 🏡 Bangladeshi District and their Information 
+- 🤝 Community Connection Platform
+
+## 🏆 Hackathon Project
+[![Download](https://img.shields.io/badge/Download-App-blue?style=for-the-badge)](https://drive.google.com/file/d/1lPLrZ0z0jPTjW_foVIshM-_itcQXtxuE/view?usp=drive_link)
+
+### 🔬 Innovation Showcase
+- 💡 Cutting-Edge Solution
+- 🚀 Problem-Solving Approach
+- 🏅 Hackathon Achievement
 
 
 
