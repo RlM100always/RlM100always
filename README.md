@@ -1,17 +1,18 @@
 
-<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/Copy%20of%20Android%20Fiveer%20Gig.png' weight="2000" height="450"  />
+<img src='https://github.com/RlM100always/Hisab/blob/main/1.png?raw=true' weight="2000" height="450"  />
 
 ### Hi there 👋, I am Rakib Hossain
 
-I'm an Android Application Developer with 3 years of(self) experience in building high-quality, performance-driven mobile applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
+I'm an Software Developer with 3 years of(self) experience in building high-quality, performance-driven mobile and Web applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
 
 * Tech Stack:
-* ✔ Development: Java, Kotlin, Jetpack Compose, XML
-* ✔ Backend & Database : Sqlite,mysql,Postgresql, Python, FastApi
+* ✔ Mobile Development: Java, Kotlin, Jetpack Compose, XML
+* ✔ Website - Backend & Database Development : Sqlite,Mysql,Postgresql, Python, FastApi,Django,Wordpress
 * ✔ API & Networking: Retrofit, Volley
 * ✔ Storage & Media
 * ✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS)
 * ✔ Architecture: MVVM for clean, maintainable code
+* ✔ Tools: VsCode , Android Studio , Postman , Git , GitHub , Gitlab , Canva , Google Docs , Google Slide , Google Form and Many More 
    
 
 # 🚀 My Project List : 
