@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am Rakib Hossain
 
-I'm an Software Developer with 3 years of(self) experience in building high-quality, performance-driven mobile and Web applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
+I'm a Software Developer with 3 years of(self) experience in building high-quality, performance-driven mobile and Web applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
 
 * Tech Stack:
 * ✔ Mobile Development: Java, Kotlin, Jetpack Compose, XML
