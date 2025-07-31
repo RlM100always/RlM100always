@@ -7,12 +7,14 @@ I'm a Software Developer with 3 years of(self) experience in building high-quali
 
 * Tech Stack:
 * ✔ Mobile Development: Java, Kotlin, Jetpack Compose, XML
-* ✔ Website - Backend & Database Development : Sqlite,Mysql,Postgresql, Python, FastApi,Django,Wordpress
-* ✔ API & Networking: Retrofit, Volley
+* ✔ Website Development -  Python, FastApi,Django,Wordpress, Javascript
+* ✔ Backend & Database Development : Sqlite,Mysql,Postgresql
+* ✔ Programming Language : C , C++ , Python , Java , Javascript , Kotlin , Dart 
+* ✔ API & Networking: Retrofit, Volley . JSON Data Handle 
 * ✔ Storage & Media
-* ✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS)
-* ✔ Architecture: MVVM for clean, maintainable code
-* ✔ Tools: VsCode , Android Studio , Postman , Git , GitHub , Gitlab , Canva , Google Docs , Google Slide , Google Form and Many More 
+* ✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS, Basic Android Jetpackcompose , DTL : Django Template Engine)
+* ✔ Architecture: MVVM for clean, maintainable code , MVT 
+* ✔ Tools: VsCode , Android Studio , Postman , Git , GitHub , Gitlab , Canva , Google Docs , Google Slide , Google Form , Overleaf , Swagger Docs   
    
 
 # 🚀 My Project List : 
