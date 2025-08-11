@@ -83,17 +83,17 @@ I'm a Software Developer with 3 years of(self) experience in building high-quali
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### Connect With Me 
 <a   href="https://www.codechef.com/users/rakib55"  ><img src="https://github.com/RlM100always/RlM100always/blob/main/Picture/codechef%20(1).png"  weight="45" height="50"  /></a>
  [<img src='https://github.com/RlM100always/RlM100always/blob/main/logo/GitHub-logo.png' weight="50" height='50'>](https://github.com/RlM100always)  [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/linkedin-logo.png' weight="45" height='50'>](https://www.linkedin.com/in/RlM100always) [<img  src='https://github.com/RlM100always/RlM100always/blob/main/logo/Facebook-logo.png' weight="50"  height='50'>](https://www.facebook.com/RlM100always)<a  href="https://leetcode.com/RlM100always/"  ><img    src="https://github.com/RlM100always/RlM100always/blob/main/logo/leetcode.png"   weight="40" height="50"  /></a><a   href="https://www.codechef.com/users/rlm100always"  ><img src="https://github.com/RlM100always/RlM100always/blob/main/Picture/codechef%20(1).png"  weight="45" height="50"  /></a>
 
 ### GitHub Contribution
-[![trophy](https://github-profile-trophy.vercel.app/?username=RlM100always)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RlM100always)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RlM100always&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=RlM100always)](https://github.com/RlM100always/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RlM100always&layout=compact) <br>
+![Rakib GitHub stats](https://github-readme-stats.vercel.app/api?username=RlM100always&show_icons=true&theme=transparent)
   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RlM100always)  
