@@ -6,15 +6,15 @@
 I'm a Software Developer with 3 years of(self) experience in building high-quality, performance-driven mobile and Web applications. I specialize in creating intuitive, scalable, and feature-rich apps tailored to business goals.Currently Studying University of Dhaka Department of Computer Science and Enineering .
 
 * Tech Stack:
-* ✔ Mobile Development: Java, Kotlin, Jetpack Compose, XML
-* ✔ Website Development -  Python, FastApi,Django,Wordpress, Javascript
-* ✔ Backend & Database Development : Sqlite,Mysql,Postgresql
-* ✔ Programming Language : C , C++ , Python , Java , Javascript , Kotlin , Dart 
-* ✔ API & Networking: Retrofit, Volley . JSON Data Handle 
-* ✔ Storage & Media
-* ✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS, Basic Android Jetpackcompose , DTL : Django Template Engine)
-* ✔ Architecture: MVVM for clean, maintainable code , MVT 
-* ✔ Tools: VsCode , Android Studio , Postman , Git , GitHub , Gitlab , Canva , Google Docs , Google Slide , Google Form , Overleaf , Swagger Docs   
+✔ Mobile Development: Java, Kotlin, Jetpack Compose, XML
+✔ Website Development -  Python, FastApi,Django,Wordpress, Javascript
+✔ Backend & Database Development : Sqlite,Mysql,Postgresql
+✔ Programming Language : C , C++ , Python , Java , Javascript , Kotlin , Dart 
+✔ API & Networking: Retrofit, Volley . JSON Data Handle 
+✔ Storage & Media
+✔ UI/UX: Custom animations (Lottie), responsive UI (XML, HTML & CSS, Basic Android Jetpackcompose , DTL : Django Template Engine)
+✔ Architecture: MVVM for clean, maintainable code , MVT 
+✔ Tools: VsCode , Android Studio , Postman , Git , GitHub , Gitlab , Canva , Google Docs , Google Slide , Google Form , Overleaf , Swagger Docs   
    
 
 # 🚀 My Project List : 
